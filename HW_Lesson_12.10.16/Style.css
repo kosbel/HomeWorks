@@ -1,0 +1,50 @@
+*{
+    font-family: Arial, serif;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+body{
+    background: cadetblue;
+}
+
+header{
+    width: 900px;
+    margin: 0 auto;
+    overflow: hidden;
+    background: azure;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+
+#table1{
+    width: 500px;
+    float: left;
+}
+
+.vk{
+    position: absolute;
+    float: right;
+    right: 200px;
+}
+
+main{
+    width: 900px;
+    margin: 0 auto;
+    background: antiquewhite;
+}
+
+.col1{
+    text-align: center;
+    font-weight: bold;
+    border: 10px groove red;
+}
+
+.col2{
+    padding: 10px;
+    border: 10px groove blue;
+}
