@@ -2,21 +2,17 @@
 /**
  * Created by PhpStorm.
  * User: Константин
- * Date: 04.11.2016
- * Time: 1:32
+ * Date: 05.11.2016
+ * Time: 14:10
  */
 
 $arr = array(4, 2, 5, 19, 13, 0, 10);
 
-$e = 4;
+$count = 0;
 
 foreach ($arr as $value)
 {
-    if ($e == $value)
-    {
-        echo "Есть!";
-        exit();
-    }
+    $count++;
 }
 
-echo "Нет!";
+echo "Количество элементов = $count";
