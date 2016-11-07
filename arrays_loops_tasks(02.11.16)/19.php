@@ -8,7 +8,7 @@
 
 $days_week = array('Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday');
 
-$day = $days_week[5];
+$day = date('l');
 
 foreach ($days_week as $value)
 {
