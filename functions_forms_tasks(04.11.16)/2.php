@@ -25,22 +25,36 @@ if ($_POST)
 {
     function getThreeLongWords($arr)
     {
-        $result = array();
-        for ($i = 0; $i < count($arr); $i++)
-        {
-            for ($j = $i + 1; $j < count($arr); $j++)
-            {
-                if (count($arr[$j]) > count($arr[$i]))
-                {
+        $arr_result = array();
 
+        for ($i = 0; $i < 3; $i++)
+        {
+            $max_long = 0;
+            $key = 0;
+            for ($j = 0; $j < count($arr); $j++)
+            {
+                if (strlen($arr[$j]) > $max_long)
+                {
+                    $max_long = strlen($arr[$j]);
+                    $key = $j;
                 }
             }
+
+            $arr_result[] = $arr[$key];
+            unset($arr[$key]);
+            $arr = array_values($arr);
         }
+
+        return $arr_result;
     }
 
     $arr_str = explode(' ', $_POST['text']);
 
-    getThreeLongWords($arr_str);
+    $arr_long_words = getThreeLongWords($arr_str);
+
+    echo "Самые длинные слова: ";
+    foreach ($arr_long_words as $word)
+        echo $word . ' ';
 }
 
 ?>
