@@ -33,7 +33,7 @@ $arr_photo = loadingDir($main_dir);
 
 //изменение размера фото
 foreach ($arr_photo as $item)
-    resize($item, 100);
+    resize($item, 200, 200);
 
 //создание таблицы
 createTable($arr_photo);
