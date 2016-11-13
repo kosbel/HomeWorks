@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9c69ffc-bcf2-494b-a5a8-2ce05a819fcf" name="Default" comment="" />
+    <list default="true" id="e9c69ffc-bcf2-494b-a5a8-2ce05a819fcf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions_forms_tasks(04.11.16)/7/7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions_forms_tasks(04.11.16)/6/gallery/ucl.jpg" afterPath="$PROJECT_DIR$/functions_forms_tasks(04.11.16)/6/gallery/ucl.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="PHPAcademy_HW.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -23,37 +29,46 @@
     <splitter split-orientation="vertical" split-proportion="0.6226708">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="Tasks.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/Tasks.html">
+          <file leaf-file-name="7.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/7/7.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="51" column="83" selection-start-line="51" selection-start-column="83" selection-end-line="51" selection-end-column="83" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="6.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/6/6.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="261">
-                  <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="function.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/6/function.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="76" column="47" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
+                <state relative-caret-position="170">
+                  <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
                   <folding>
-                    <element signature="n#loadingDir#0;n#!!top" expanded="false" />
-                    <element signature="n#resize#0;n#!!top" expanded="false" />
-                    <element signature="n#numberRow#0;n#!!top" expanded="false" />
-                    <element signature="n#createTable#0;n#!!top" expanded="false" />
+                    <element signature="n#style#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <marker date="1478998299143" expanded="true" signature="251:280" ph="..." />
+                    <marker date="1478998299143" expanded="true" signature="499:551" ph="..." />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://D:/Kostya/Projects/HTML_&amp;_CSS_&amp;_JavaScript_&amp;_PHP/dopmat/verstka/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-306">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+            <entry file="file://D:/Kostya/Projects/HTML_&amp;_CSS_&amp;_JavaScript_&amp;_PHP/dopmat/verstka/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-2099">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="comments.txt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/7/comments.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -65,8 +80,8 @@
           <file leaf-file-name="Tasks.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/Tasks.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="51" column="83" selection-start-line="51" selection-start-column="83" selection-end-line="51" selection-end-column="83" />
+                <state relative-caret-position="272">
+                  <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -127,8 +142,11 @@
         <option value="$PROJECT_DIR$/functions_forms_tasks(04.11.16)/6/form.html" />
         <option value="$PROJECT_DIR$/functions_forms_tasks(04.11.16)/6/gallery/6.php" />
         <option value="$PROJECT_DIR$/functions_forms_tasks(04.11.16)/6/loading_dir.php" />
-        <option value="$PROJECT_DIR$/functions_forms_tasks(04.11.16)/6/6.php" />
         <option value="$PROJECT_DIR$/functions_forms_tasks(04.11.16)/6/function.php" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks(04.11.16)/6/6.php" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks(04.11.16)/7/form.html" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks(04.11.16)/7/7.php" />
+        <option value="$PROJECT_DIR$/functions_forms_tasks(04.11.16)/7/comments.txt" />
       </list>
     </option>
   </component>
@@ -225,25 +243,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="6" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHPAcademy_HW" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PHPAcademy_HW" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="functions_forms_tasks(04.11.16)" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3" />
+              <option name="myItemId" value="7" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -255,7 +255,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="D:/Kostya/Projects/HTML_&amp;_CSS_&amp;_JavaScript_&amp;_PHP/HTML/Send_a_Message.html" />
+    <property name="last_opened_file_path" value="D:/Kostya/Projects/HTML_&amp;_CSS_&amp;_JavaScript_&amp;_PHP/dopmat/verstka/style.css" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
@@ -339,12 +339,12 @@
       <workItem from="1478540232904" duration="16770000" />
       <workItem from="1478728542905" duration="3354000" />
       <workItem from="1478803138468" duration="13841000" />
-      <workItem from="1478943407467" duration="20249000" />
+      <workItem from="1478943407467" duration="33110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107238000" />
+    <option name="totallyTimeSpent" value="120099000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,7 +357,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28398058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -367,7 +367,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3757764" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -418,32 +418,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/Tasks.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/index.html" />
-    <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/index.html" />
-    <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/index.html" />
-    <entry file="file://$PROJECT_DIR$/arrays_loops_tasks(02.11.16)/14.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/arrays_loops_tasks(02.11.16)/Tasks.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -608,13 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/3/file_text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/4.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
@@ -655,14 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/Tasks.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="51" column="83" selection-start-line="51" selection-start-column="83" selection-end-line="51" selection-end-column="83" />
           <folding />
         </state>
       </provider>
@@ -741,20 +700,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/3/3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/6/function.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="76" column="47" selection-start-line="76" selection-start-column="47" selection-end-line="76" selection-end-column="47" />
+        <state relative-caret-position="102">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
           <folding>
-            <element signature="n#loadingDir#0;n#!!top" expanded="false" />
             <element signature="n#resize#0;n#!!top" expanded="false" />
             <element signature="n#numberRow#0;n#!!top" expanded="false" />
             <element signature="n#createTable#0;n#!!top" expanded="false" />
@@ -762,11 +712,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/Tasks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rezume(12.10.16)/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/6/6.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        <state relative-caret-position="136">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/7/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/3/file_text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/3/3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Kostya/Projects/HTML_&amp;_CSS_&amp;_JavaScript_&amp;_PHP/dopmat/verstka/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2099">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Kostya/Projects/HTML_&amp;_CSS_&amp;_JavaScript_&amp;_PHP/dopmat/verstka/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/7/comments.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions_forms_tasks(04.11.16)/7/7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1478998299143" expanded="true" signature="251:280" ph="..." />
+            <marker date="1478998299143" expanded="true" signature="499:551" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
