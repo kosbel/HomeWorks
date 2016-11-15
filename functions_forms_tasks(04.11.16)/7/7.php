@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Task 7</title>
 </head>
 <body>
 
@@ -10,7 +10,7 @@
 
 if ($_POST)
 {
-    $text_comment = htmlspecialchars($_POST['comment']);
+    $text_comment = $_POST['comment'];
 
     $f = fopen('comments.txt', 'a');
     fwrite($f, "<p style=\"width: 400px; margin: 0 auto;\">" . $text_comment . "</p>" . PHP_EOL . PHP_EOL);
